@@ -2,7 +2,7 @@
 
 > 每次运行都产出一张**全网仅此一张**的 4K 艺术壁纸。零素材、零版权问题，你的桌面你做主。
 
-![flow](samples/sample_flow.png)
+![flow](https://aka.doubaocdn.com/s/p2GLb01ADx)
 
 ## ✨ 为什么用它
 
@@ -51,11 +51,11 @@ python main.py --style nebula --palette ocean --size 4k -o my_wallpaper.png
 
 | 🌊 flow 流场 | 🌌 aurora 极光 |
 |---|---|
-| ![flow](samples/sample_flow.png) | ![aurora](samples/sample_aurora.png) |
+| ![flow](https://aka.doubaocdn.com/s/p2GLb01ADx) | ![aurora](https://aka.doubaocdn.com/s/9vY8QzQ1ET) |
 
 | 🌸 mandala 曼陀罗 | 🪐 nebula 星云 |
 |---|---|
-| ![mandala](samples/sample_mandala.png) | ![nebula](samples/sample_nebula.png) |
+| ![mandala](https://aka.doubaocdn.com/s/EzW6GVFAjh) | ![nebula](https://aka.doubaocdn.com/s/UPPTCC6RUs) |
 
 ## 🧩 作为库调用
 
@@ -74,7 +74,7 @@ wallgen/
 ├── wallgen/
 │   ├── palettes.py    # 8 套预设配色
 │   └── styles.py      # 4 种生成艺术引擎
-└── samples/          # 示例图
+└── samples/           # 示例图
 ```
 
 ## 📄 License
